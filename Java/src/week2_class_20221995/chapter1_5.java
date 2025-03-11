@@ -31,6 +31,7 @@ public class chapter1_5 {
 				result += ", ";
 			}
 			result += "파란 초 " + b + "개";
+			isEx = true;
 		}
 		if (y != 0) {
 			if (isEx) {
